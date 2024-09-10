@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1725992104|55761767';
+const CACHE_VERSION = '1725992589|9249051';
 /** @type {string} */
 const CACHE_PREFIX = 'Pet the Dog-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
