@@ -3,4 +3,4 @@ An extremely simple game where you click the dog to make it spin faster. A recre
 
 Link to game: https://flamingwater69.github.io/PetTheDogGame/
 
-Link to itch.io page: https://flamingwater.itch.io/pet-the-dog
+Link to itch.io page: https://flamingwater.itch.io/pet-the-dog (keep in mind that saves aren't saved across itch.io and GitHub pages)
